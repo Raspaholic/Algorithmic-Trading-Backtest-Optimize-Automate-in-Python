@@ -1,0 +1,15 @@
+About Algorithmic Trading
+
+Automated Trading:
+  Pros:
+    Scope
+    Speed
+    Minimize risk
+    Removing emotional aspect
+    Ability to backtest and optimize
+    time saving
+
+  Cons:
+    Data fitting/Over-optimization
+    Bugs
+    Has to be monitored
