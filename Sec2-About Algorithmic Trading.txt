@@ -13,3 +13,21 @@ Automated Trading:
     Data fitting/Over-optimization
     Bugs
     Has to be monitored
+
+Prevelance of Automated Trading
+
+~10% of trades only made by human, rest automated 
+Most likely means that automated trading out preforms manual trading
+Numbers might be misleading since it looks at volume and not individual 
+  since they hold positions longer than automated systems or traders
+  A lot of automated systems buy and sell several times within a day, some
+    within same minutes, multiple times across many symbols.
+
+Why Use Open Source?
+
+  Free
+  Can build from scratch
+  Access to code (For learning/debugging/understanding/changing)
+  Code is updated and maintained by many people
+  Save time (you can focus on building strategies)
+  Community Help
